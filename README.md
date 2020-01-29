@@ -1,0 +1,2 @@
+# MemoryStress
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/301b492ba4644efd94d901eac5a82d45)](https://app.codacy.com/manual/lfebatis/MemoryStress?utm_source=github.com&utm_medium=referral&utm_content=LucasFebatis/MemoryStress&utm_campaign=Badge_Grade_Settings)
